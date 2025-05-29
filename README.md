@@ -13,8 +13,8 @@ This server exposes a single API endpoint that, given a wallet public key, scans
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/sol-claim.git
-cd sol-claim-api
+git clone https://github.com/rahan-r/SolReclaim.git
+cd SolReclaim
 npm install
 npm start
 
